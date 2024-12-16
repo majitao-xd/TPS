@@ -20,9 +20,15 @@ Zero-shot generalized anomaly detection (ZGAD) plays a critical role in industri
 
 ## BibTex Citation
 @inproceedings{ma2025aligning,
+
   title={Aligning and Prompting Anything for Zero-Shot Generalized Anomaly Detection},
+  
   author={Ma, Jitao and Xie, Weiying and Ye Hangyu and Li, Daixun and Fang, Leyuan},
+  
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  
   volume={Camera ready},
+  
   year={2025}
+  
 }
