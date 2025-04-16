@@ -1,5 +1,5 @@
 # TPS -- Aligning and Prompting Anything for Zero-Shot Generalized Anomaly Detection (AAAI 2025)
-[AAAI 2025] [Camera ready]
+[AAAI 2025] [[Camera ready](https://ojs.aaai.org/index.php/AAAI/article/view/32637)]
 
 by Jitao Ma, Weiying Xie, Hangyu Ye, Daixun Li, Leyuan Fang.
 
